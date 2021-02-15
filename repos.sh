@@ -1,3 +1,4 @@
+cd ~/Alfredonator/catkin_ws/src
 git clone https://github.com/Alfredonator/logger.git
 git clone https://github.com/Alfredonator/grasper.git
 git clone https://github.com/Alfredonator/eDO_moveit.git
